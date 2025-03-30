@@ -149,7 +149,7 @@ Development Containers have emerged as a transformative technology in DevOps and
 | Troubleshooting in JetBrains IDEs | Check Docker status, OpenSSH client configuration, SSH key permissions as per JetBrains documentation. |
 | General troubleshooting   | Utilize VS Code Command Palette commands like "Dev Containers: Show Container Log" and "Dev Containers: Rebuild Container". Refer to official documentation and community forums for additional support. |
 
-### Works Cited
+### Sources
 
 1. Introduction to dev containers - Codespaces - GitHub Docs, accessed March 29, 2025, [https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration)
 2. Developing inside a Container - Visual Studio Code, accessed March 29, 2025, [https://code.visualstudio.com/docs/devcontainers/containers](https://code.visualstudio.com/docs/devcontainers/containers)
@@ -163,4 +163,3 @@ Development Containers have emerged as a transformative technology in DevOps and
 
 ---
 
-Feel free to adjust any sections or add any additional information specific to your project.
