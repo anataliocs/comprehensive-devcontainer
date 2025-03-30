@@ -1,0 +1,10 @@
+.DS_Store
+target
+.sccache
+.soroban
+node_modules
+*bundle*
+_squirtle
+_client
+.idea/
+.devpod-internal
